@@ -1,4 +1,4 @@
-## <div align="center">I'm Mostafa, a full-time full-stack freelance developer 👨‍💻 Looking for new oppor 🚀</div>  
+## <div align="center">I'm Mostafa, a full-time full-stack freelance developer 👨‍💻</div>  
   
 
 <a href="https://linkedin.com/in/mostafa-elsayed19" target="_blank">
